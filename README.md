@@ -19,7 +19,7 @@
 </h3><br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bootstrap,c,cs,css,figma,firebase,git,github,gmail,html,instagram,java,js,jquery,laravel,nextjs,notion,npm,php,phpstorm,postgres,postman,py,react,sqlite,supabase,tailwind,ts,vite,vscode,webstorm"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap,c,cs,css,dotnet,django,figma,firebase,git,github,gmail,html,java,js,jquery,laravel,nextjs,nodejs,notion,npm,php,phpstorm,postgres,postman,powershell,py,react,stackoverflow,sqlite,supabase,tailwind,ts,vercel,visualstudio,vite,vscode,webstorm"/>
 </p>
 
 <p align="center">
@@ -27,6 +27,6 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=hnyln&theme=shadow_blue&hide_border=false" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnyln&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="36%" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hnyln&theme=shadow_blue&hide_border=false" width="57%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hnyln&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="41%" />
 </p>
